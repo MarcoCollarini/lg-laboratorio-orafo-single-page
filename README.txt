@@ -1,8 +1,8 @@
-HPRAM JEWELRY TRIESTE - SINGLE PAGE CUSTOM
+L.G. LABORATORIO ORAFO - SINGLE PAGE CON LOGO ORIGINALE
 
-Aprire index.html. Il sito funziona interamente in locale senza framework o CDN.
-Dati modificabili in config/config.js.
-Tutte le immagini sono generate e illustrative. Non rappresentano il negozio reale o prodotti effettivamente disponibili.
-Le fonti pubbliche consultate concordano sul telefono 040 365618 e sull’attività di vendita al dettaglio di gioielli, orologi e argenteria.
-Le fonti riportano due formulazioni dell’indirizzo: Viale XX Settembre 1 e Largo Don Francesco Bonifacio 1/B. Prima della pubblicazione definitiva occorre confermare con il titolare quale utilizzare.
-Gli orari sono riportati da una sola directory aggiornata al 19 marzo 2025 e devono essere verificati.
+Il logo originale fornito dall’utente è salvato in assets/images/lg-logo-original.png e utilizzato in header e footer.
+Palette coordinata al logo: nero, grafite, rosso L.G., bianco ottico, ghiaccio e argento.
+Aprire index.html. Il sito funziona in locale senza framework o CDN.
+Dati e orari: config/config.js.
+Le immagini ambientali restano illustrative e generate per la demo.
+Informazioni dal sito ufficiale: attività a Trieste dal 2006, Giovanni Lo Giudice, formazione orafa a Valenza dal 1975, creazioni personalizzate, incastonatura, diamanti certificati, riparazioni, lucidatura, rodiatura e infilatura collane.
