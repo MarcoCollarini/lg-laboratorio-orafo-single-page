@@ -1,0 +1,1 @@
+window.SITE_CONFIG={storeName:"Hpram Jewelry",address:"Viale XX Settembre 1, 34125 Trieste",alternateAddress:"Largo Don Francesco Bonifacio 1/B, 34125 Trieste",phone:"+39 040 365618",phoneHref:"+39040365618",maps:"https://www.google.com/maps/search/?api=1&query=Hpram+Jewelry+Trieste",hours:["Lunedì–Venerdì: 10:00–19:00","Sabato: 09:00–19:00","Domenica: chiuso"]};
